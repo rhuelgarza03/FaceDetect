@@ -1,5 +1,5 @@
 # faceDetect
-This is a program that detects your face via a webcam and then points the camera at you, to ensure that your face is in the center of the shot.
+This is a program that detects your face via a webcam and then points the camera at you, to ensure that your face is in the center of the shot. The only required python file is actually center.py, the other 2 are just test files I made and never removed.
 
 fun fact: this took like 3 extra hours to make because I was encoding my data wrong and it was super frustrating to figure out the problem lol.
 
