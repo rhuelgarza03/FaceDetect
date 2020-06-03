@@ -8,8 +8,6 @@ I wrote the software in python and whatever language the arduino ide uses (simpl
 For the hardware, I used an arduino redboard, a logitech c920 webcam, and a cheap micro servo. Although, any other type of servo, webcam, or arduino would work, obviously. All I did was connect the servo to the arduino and then mount the webcam on top of the servo using some tape.
 
 Here's an image of the this piece of junk. (Yes I use free windows 10)
-https://imgur.com/a/L1b2zHO
-
-idk how to use markdown
+![Imgur](https://i.imgur.com/7FIBypv.jpg)
 
 created: May 13, 2020
